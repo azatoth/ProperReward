@@ -1,12 +1,10 @@
-author: Jadedwolf
+author: AzaToth
 database: false
-description: "Prevents players from building mob farms by only allowing items to drop\
-  \ from those killed by players themselves.\r\nAll Credits go to: McSpazzy"
-main: jadedwolf.plugins.nofarm.NoFarm
-name: NoFarm
-startup: postworld
-url: http://jadedwolf.com/
-version: '0.3.6'
+description: "Reduce drop rates depending on how much damage the final player made; Based on NoFarm by McSpazzy and Jadewolf"
+main: se.azatoth.properreward.ProperReward
+name: ProperReward
+version: '0.1'
 authors:
   - McSpazzy
     - Jadedwolf
+      - AzaToth
